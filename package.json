@@ -1,6 +1,6 @@
 {
   "name": "web-compression",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny (de)compression library.",
   "homepage": "https://github.com/fisker/web-compression#readme",
   "bugs": {
