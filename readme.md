@@ -1,15 +1,12 @@
 # web-compression
 
-[![Build Status][github_actions_badge]][github_actions_link]
-[![Coverage][coveralls_badge]][coveralls_link]
 [![Npm Version][package_version_badge]][package_link]
 [![MIT License][license_badge]][license_link]
+[![Coverage][coverage_badge]][coverage_link]
 
-[github_actions_badge]: https://img.shields.io/github/actions/workflow/status/fisker/web-compression/continuous-integration.yml?barnach=main&style=flat-square
-[github_actions_link]: https://github.com/fisker/web-compression/actions?query=branch%3Amain
-[coveralls_badge]: https://img.shields.io/coveralls/github/fisker/web-compression/main?style=flat-square
-[coveralls_link]: https://coveralls.io/github/fisker/web-compression?branch=main
-[license_badge]: https://img.shields.io/npm/l/prettier-format.svg?style=flat-square
+[coverage_badge]: https://img.shields.io/codecov/c/github/fisker/web-compression.svg?style=flat-square
+[coverage_link]: https://app.codecov.io/gh/fisker/web-compression
+[license_badge]: https://img.shields.io/npm/l/web-compression.svg?style=flat-square
 [license_link]: https://github.com/fisker/web-compression/blob/main/license
 [package_version_badge]: https://img.shields.io/npm/v/web-compression.svg?style=flat-square
 [package_link]: https://www.npmjs.com/package/web-compression
